@@ -1,0 +1,1 @@
+const  String mainParagraph = " It aids urban planning, disaster management, and environmental monitoring by providing accurate, actionable insights into settlement growth and land usage.";
