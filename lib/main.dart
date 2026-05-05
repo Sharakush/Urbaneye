@@ -26,7 +26,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Flutter Web',
       theme: ThemeData(visualDensity: VisualDensity.adaptivePlatformDensity),
-      home: LoginPage(),
+      home: HomePage(),
     );
   }
 }
